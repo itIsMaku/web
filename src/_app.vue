@@ -2,7 +2,7 @@
   <div
     class="bg-radical w-full h-full min-h-screen min-w-screen flex justify-center items-center"
   >
-    <div class="max-w-2xl w-full">
+    <div class="max-w-2xl w-full mx-4">
       <div class="flex flex-col">
         <img
           src="https://cdn.discordapp.com/avatars/543845318962184223/b5822f2d14fc738a5cb497ce54d4beef.png"
@@ -12,14 +12,14 @@
         />
         <div class="my-8">
           <h1
-            class="text-radical-title font-bold text-7xl"
+            class="text-radical-title font-bold text-4xl sm:text-5xl md:text-7xl"
             data-aos="fade-up"
             data-aos-delay="400"
           >
             Maku
           </h1>
           <div
-            class="text-gray-100 font-medium text-4xl inline-flex items-center"
+            class="text-gray-100 font-medium text-xl sm:text-2xl md:text-4xl inline-flex items-center"
             data-aos="fade-up"
             data-aos-delay="500"
           >
