@@ -12,14 +12,14 @@
         />
         <div class="my-8">
           <h1
-            class="text-radical-title font-bold text-4xl sm:text-5xl md:text-7xl"
+            class="text-radical-title font-bold text-4xl sm:text-5xl md:text-7xl xl:8xl 2xl:9xl"
             data-aos="fade-up"
             data-aos-delay="400"
           >
             Maku
           </h1>
           <div
-            class="text-gray-100 font-medium text-xl sm:text-2xl md:text-4xl inline-flex items-center"
+            class="text-gray-100 font-medium text-xl sm:text-2xl md:text-4xl xl:5xl 2xl:6xl inline-flex items-center"
             data-aos="fade-up"
             data-aos-delay="500"
           >
@@ -44,7 +44,7 @@
           <icon-link href="https://github.com/itIsMaku">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="w-10 h-10"
+              class="w-10 h-10 xl:h-12 xl:w-12"
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
@@ -60,7 +60,7 @@
           <icon-link href="#">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="w-10 h-10"
+              class="w-10 h-10 xl:h-12 xl:w-12"
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
@@ -76,7 +76,7 @@
           <icon-link href="#">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="w-10 h-10"
+              class="w-10 h-10 xl:h-12 xl:w-12"
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
@@ -92,7 +92,7 @@
           <icon-link href="#">
             <svg
               aria-hidden="true"
-              class="h-10 w-10"
+              class="h-10 w-10 xl:h-12 xl:w-12"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 448 512"
             >
