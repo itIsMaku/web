@@ -111,6 +111,8 @@
 <script lang="ts">
 import { defineComponent, h, onMounted, reactive, VNode } from "vue";
 import IconLink from "./components/IconLink.vue";
+import TypeScript from "./components/texts/TypeScript.vue";
+import QPlay from "./components/texts/QPlay.vue";
 import AOS from "aos";
 
 import "aos/dist/aos.css";
@@ -120,8 +122,8 @@ const component = (node: VNode) => ({ setup: () => () => node });
 const texts = {
   JavaDeveloper: component(h("span", "Java Developer")),
   CoffeeLover: component(h("span", "☕ Coffee Lover")),
-  QPlay: component(h("span", "Developer at QPlay.cz")),
-  TypeScript: component(h("span", "Future TypeScript king")),
+  QPlay,
+  TypeScript,
 };
 
 export default defineComponent({
