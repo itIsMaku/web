@@ -57,7 +57,7 @@
               />
             </svg>
           </icon-link>
-          <icon-link href="#">
+          <icon-link href="https://twitter.com/iammakuuu">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-10 h-10 xl:h-12 xl:w-12"
@@ -73,7 +73,7 @@
               />
             </svg>
           </icon-link>
-          <icon-link href="#">
+          <icon-link href="http://instagram.com/really_adam.jar">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-10 h-10 xl:h-12 xl:w-12"
@@ -89,7 +89,7 @@
               <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
             </svg>
           </icon-link>
-          <icon-link href="#">
+          <icon-link href="https://discord.gg/qplay">
             <svg
               aria-hidden="true"
               class="h-10 w-10 xl:h-12 xl:w-12"
