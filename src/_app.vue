@@ -5,7 +5,7 @@
     <div class="max-w-2xl w-full mx-4">
       <div class="flex flex-col">
         <img
-          src="https://cdn.discordapp.com/avatars/543845318962184223/b5822f2d14fc738a5cb497ce54d4beef.png"
+          src="https://i.imgur.com/naKAve5.png"
           class="w-24 h-24 rounded-3xl"
           data-aos="fade-up"
           data-aos-delay="300"
