@@ -16,7 +16,7 @@
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            Maku
+            maku
           </h1>
           <div
             class="text-gray-100 font-medium text-xl sm:text-2xl md:text-4xl xl:5xl 2xl:6xl inline-flex items-center"
