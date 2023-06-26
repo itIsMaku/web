@@ -16,7 +16,7 @@
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            maku
+            Adam Volkman
           </h1>
           <div
             class="text-gray-100 font-medium text-xl sm:text-2xl md:text-4xl xl:5xl 2xl:6xl inline-flex items-center"
@@ -89,7 +89,7 @@
               <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
             </svg>
           </icon-link>
-          <icon-link href="https://discord.gg/KEGd6Nh6wU">
+          <icon-link href="https://discord.gg/RPYvNjfrSY">
             <svg
               aria-hidden="true"
               class="h-10 w-10 xl:h-12 xl:w-12"
