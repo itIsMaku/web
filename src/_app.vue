@@ -120,7 +120,7 @@ const component = (node: VNode) => ({ setup: () => () => node });
 
 const texts = {
   JavaDeveloper: component(h("span", "Software Developer")),
-  CoffeeLover: component(h("span", "☕ Coffee Lover")),
+  CoffeeLover: component(h("span", "☕ Java Lover")),
   TypeScript,
 };
 
